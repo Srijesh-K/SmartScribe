@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI Study Notes \u0026 Quiz Generator",
+  "description": "Upload PDF or audio files to generate structured study notes and interactive quizzes powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
